@@ -3,12 +3,12 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.apitore.banana</groupId>
+  <groupId>com.apitore.cherry</groupId>
   <artifactId>apitore-handson-vol1</artifactId>
   <version>0.0.1</version>
   <packaging>jar</packaging>
   <name>${project.artifactId}</name>
-  <description>Twitter response</description>
+  <description>Handson Vol.1</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
