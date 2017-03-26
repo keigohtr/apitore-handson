@@ -7,3 +7,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+/apitore-handson-vol1/.classpath
+/apitore-handson-vol1/.project
+/apitore-handson-vol1/.settings/org.eclipse.core.resources.prefs
+/apitore-handson-vol1/.settings/org.eclipse.jdt.core.prefs
+/apitore-handson-vol1/.settings/org.eclipse.m2e.core.prefs
