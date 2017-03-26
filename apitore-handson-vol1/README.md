@@ -1,4 +1,6 @@
 # apitore-handson-vol1
+This is the text for [Apitore WebAPI handson](https://apitore.connpass.com/event/52551/).
+
 Use these Apitore's APIs.
 - [Apitore's twitter API](https://apitore.com/store/apis/details?id=23)
 - [Apitore's sentiment Web API](https://apitore.com/store/apis/details?id=11)
