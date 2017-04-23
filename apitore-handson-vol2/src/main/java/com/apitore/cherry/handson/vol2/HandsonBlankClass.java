@@ -1,4 +1,4 @@
-package com.apitore.cherry.handson.vol1;
+package com.apitore.cherry.handson.vol2;
 
 
 /**

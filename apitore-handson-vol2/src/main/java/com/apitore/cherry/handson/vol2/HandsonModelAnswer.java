@@ -1,4 +1,4 @@
-package com.apitore.cherry.handson.vol1;
+package com.apitore.cherry.handson.vol2;
 
 
 import java.util.HashMap;
@@ -20,7 +20,7 @@ public class HandsonModelAnswer {
 
   static String ENDPOINT1     = "https://api.apitore.com/api/35/feeds/tech";
   static String ENDPOINT2     = "https://api.apitore.com/api/7/kuromoji-ipadic-neologd/tokenize";
-  static String ACCESS_TOKEN  = "3735c29b-6143-4158-b4f2-c9364a76318a";
+  static String ACCESS_TOKEN  = "YOUR-ACCESS-TOKEN";
 
   public static void main(String[] args) {
     RestTemplate restTemplate1 = new RestTemplate();
